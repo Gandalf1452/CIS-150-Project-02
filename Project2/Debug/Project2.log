@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\users\ryan\source\repos\project2\project2\source1.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\source\repos\project2\project2\source1.cpp(72): warning C4715: 'loginScreen': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Ryan\source\repos\Project2\Debug\Project2.exe
